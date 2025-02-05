@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Yuri, a student from Brazil 🇧🇷
+## Hello World, I'm Yuri!
 <!--
 https://github.blog/changelog/2022-05-19-specify-theme-context-for-images-in-markdown-beta/ 
 <picture>
