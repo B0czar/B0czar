@@ -21,5 +21,3 @@ https://github.blog/changelog/2022-05-19-specify-theme-context-for-images-in-mar
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=B0czar&icon=5&color=4)](https://visitcount.itsvg.in
