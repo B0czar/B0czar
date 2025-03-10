@@ -11,7 +11,7 @@ https://github.blog/changelog/2022-05-19-specify-theme-context-for-images-in-mar
 
 
 ## 🌐 Socials:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yboczar@hotmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yuri.boczar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuriboczar) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-F58025?logo=stack-overflow&logoColor=white&labelColor=black)](https://stackoverflow.com/users/29961047/boczar)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YuriBoczar)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yboczar@hotmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yuri.boczar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuriboczar) [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-F58025?logo=stack-overflow&logoColor=white&labelColor=black)](https://stackoverflow.com/users/29961047/boczar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YuriBoczar)
 
 
 # 💻 Tech Stack (still growing):
