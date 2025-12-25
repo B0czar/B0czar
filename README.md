@@ -5,7 +5,7 @@
 <p align="left">
 </p>
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=%23D14836&labelColor=black)](mailto:yboczar@hotmail.com)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=%23E4405F&labelColor=black)](https://instagram.com/yuri.boczar)  [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-F58025?logo=stack-overflow&logoColor=%23F58025&labelColor=black)](https://stackoverflow.com/users/29961047/boczar)  [![Twitter](https://img.shields.io/badge/Twitter-white?logo=X&logoColor=white&labelColor=black)](https://twitter.com/YuriBoczar)    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5)](https://linkedin.com/in/yuriboczar) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=%23D14836&labelColor=black)](mailto:yboczar@hotmail.com)  [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-F58025?logo=stack-overflow&logoColor=%23F58025&labelColor=black)](https://stackoverflow.com/users/29961047/boczar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5)](https://linkedin.com/in/yuriboczar) 
 
 
 <h3 align="left">Languages and Tools:</h3>
