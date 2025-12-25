@@ -1,16 +1,39 @@
-<h1 align="left">Hi 👋, I'm Yuri</h1> 
-
-<h3 align="left">💫 About Me:</h3> 🎓I'm a student at Inteli;<br>🌎 I'm from Brazil;<br>🤯 Doing my best not to get crazy.
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=0&lines=Oi+👋,+Eu+sou+o+Yuri!;Estudante+de+Ciência+da+Computação&color=FFC700&width=650" alt="Português" style="margin: 0; padding: 0; display: block;"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=0&lines=Hi+👋,+I'm+Yuri!;Computer+Science+Student&color=FF7F00&width=650" alt="Inglês" style="margin: 0; padding: 0; display: block;"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=0&lines=Hola+👋,+Soy+Yuri!;Estudiante+de+Ciencias+de+la+Computación&color=E75480&width=650" alt="Espanhol" style="margin: 0; padding: 0; display: block;"/>
 </p>
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=%23D14836&labelColor=black)](mailto:yboczar@hotmail.com)  [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-F58025?logo=stack-overflow&logoColor=%23F58025&labelColor=black)](https://stackoverflow.com/users/29961047/boczar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5)](https://linkedin.com/in/yuriboczar) 
+---
+### Get in touch
+
+<p align="left">
+  <a href="mailto:yboczar@hotmail.com"><img src="https://skillicons.dev/icons?i=gmail" style="vertical-align:middle;"/></a>
+  <a href="https://linkedin.com/in/yuriboczar"><img src="https://skillicons.dev/icons?i=linkedin" style="vertical-align:middle;"/></a>
+  <a href="https://stackoverflow.com/users/29961047/boczar"><img src="https://skillicons.dev/icons?i=stackoverflow" style="vertical-align:middle;"/></a>
+</p>
+
+---
+### My Experience
+
+| Category | Icons & Tools |
+| :--- | :--- |
+| **Backend** | ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,nodejs,dotnet,express)|
+| **Frontend** | ![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs)|
+| **Database** | ![My Skills](https://skillicons.dev/icons?i=postgres,sqlite)|
+| **Version Control** | ![My Skills](https://skillicons.dev/icons?i=git,github)|
+| **Hardware** | ![My Skills](https://skillicons.dev/icons?i=arduino,)|
+|**Dev Tools**|![My Skills](https://skillicons.dev/icons?i=postman,npm)|
+| **Other Tools** | ![My Skills](https://skillicons.dev/icons?i=figma,blender,ps)|
+---
+
+### 📊 My GitHub Stats (B0czar)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=B0czar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/B0czar)
+<br>
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B0czar&layout=compact&langs_count=7&theme=dracula)](https://github.com/B0czar)
+<br>
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=B0czar&theme=dracula)](https://github.com/B0czar)
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+<p align="left">Made by Yuri Boczar</p>
