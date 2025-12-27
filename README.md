@@ -35,5 +35,3 @@
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=B0czar&theme=dracula)](https://github.com/B0czar)
 
-
-<p align="left">Made by Yuri Boczar</p>
