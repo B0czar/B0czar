@@ -29,9 +29,7 @@
 
 ### 📊 My GitHub Stats (B0czar)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=B0czar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/B0czar)
-<br>
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B0czar&layout=compact&langs_count=7&theme=dracula)](https://github.com/B0czar)
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=B0czar&theme=dracula)](https://github.com/B0czar)
+
 
