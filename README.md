@@ -14,22 +14,4 @@
 </p>
 
 ---
-### My Experience
-
-| Category | Icons & Tools |
-| :--- | :--- |
-| **Backend** | ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,nodejs,dotnet,express)|
-| **Frontend** | ![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs)|
-| **Database** | ![My Skills](https://skillicons.dev/icons?i=postgres,sqlite)|
-| **Version Control** | ![My Skills](https://skillicons.dev/icons?i=git,github)|
-| **Hardware** | ![My Skills](https://skillicons.dev/icons?i=arduino,)|
-|**Dev Tools**|![My Skills](https://skillicons.dev/icons?i=postman,npm)|
-| **Other Tools** | ![My Skills](https://skillicons.dev/icons?i=figma,blender,ps)|
----
-
-### 📊 My GitHub Stats (B0czar)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B0czar&layout=compact&langs_count=7&theme=dracula)](https://github.com/B0czar)
-<br>
-
-
+# wip
